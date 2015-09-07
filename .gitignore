@@ -1,8 +1,8 @@
 # Ignore configuration files that may contain sensitive information.
 .gitignore
-sites/*/*settings*.php
+sites/*/settings.php
 
 # Ignore paths that contain generated content.
-files/
+files/*
 sites/*/files
 sites/*/private

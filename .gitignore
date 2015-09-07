@@ -1,4 +1,6 @@
 # Ignore configuration files that may contain sensitive information.
+.gitignore
+sites/*
 sites/*/*settings*.php
 
 # Ignore paths that contain generated content.
